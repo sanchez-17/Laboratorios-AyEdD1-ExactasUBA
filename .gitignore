@@ -1,5 +1,5 @@
 .DS_store
-*/.idea
-*/cmake-build-debug
+/*/.idea
+/*/cmake-build-debug
 *.txt
 *.in
